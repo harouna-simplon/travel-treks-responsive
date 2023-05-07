@@ -1,0 +1,2491 @@
+/* screen - accueil */
+
+.accueil {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 4078px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .accueil .rectangle-1 {
+    background-color: var(--lochmara);
+    height: 59px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1441px;
+    z-index: 11;
+  }
+  
+  .accueil .icon-facebook {
+    left: 1293px;
+    position: fixed;
+    top: 15px;
+    z-index: 4;
+  }
+  
+  .accueil .icon-facebook-1 {
+    left: 1293px;
+    z-index: 5;
+  }
+  
+  .accueil .icon-instagram {
+    left: 1244px;
+    position: fixed;
+    top: 15px;
+    z-index: 14;
+  }
+  
+  .accueil .icon-twitter {
+    left: 1344px;
+    position: fixed;
+    top: 15px;
+    z-index: 15;
+  }
+  
+  .accueil .icon-facebook-2 {
+    left: 1294px;
+    z-index: 16;
+  }
+  
+  .accueil .explorer-le-monde-vivez-laventure {
+    left: 15px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 18px;
+    width: 416px;
+    z-index: 12;
+  }
+  
+  .accueil .reservation-777533518 {
+    left: 965px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 18px;
+    width: 228px;
+    z-index: 13;
+  }
+  
+  .accueil .rectangle-54 {
+    background-color: var(--white);
+    height: 103px;
+    left: -2px;
+    position: fixed;
+    top: 56px;
+    width: 1440px;
+    z-index: 6;
+  }
+  
+  .accueil .travel_treks-removebg-preview-1 {
+    height: 100px;
+    left: 123px;
+    object-fit: cover;
+    position: fixed;
+    top: 62px;
+    width: 100px;
+    z-index: 7;
+  }
+  
+  .accueil .icon-question_mark {
+    left: 1244px;
+    position: fixed;
+    top: 92px;
+    z-index: 9;
+  }
+  
+  .accueil .frame-62 {
+    align-items: center;
+    display: flex;
+    gap: 50px;
+    left: 411px;
+    position: fixed;
+    top: 93px;
+    width: fit-content;
+    z-index: 8;
+  }
+  
+  .accueil .frame-57 {
+    height: 39px;
+    min-width: 89px;
+    position: relative;
+  }
+  
+  .accueil .accueil-1 {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .accueil .frame {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .accueil .vol {
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .accueil .frame-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .accueil .hebergement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .accueil .vente-flash {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .accueil .mon-compte {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .accueil .aide {
+    cursor: pointer;
+    left: 1244px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 131px;
+    white-space: nowrap;
+    z-index: 10;
+  }
+  
+  .accueil .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: -2px;
+    margin-top: 162px;
+    min-height: 1592px;
+    width: 1442px;
+    z-index: 1;
+  }
+  
+  .accueil .group-22 {
+    height: 482px;
+    position: relative;
+    width: 1442px;
+  }
+  
+  .accueil .overlap-group-2 {
+    align-items: flex-end;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-3-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 482px;
+    left: 0;
+    min-width: 1440px;
+    padding: 190px 426px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .accueil .un-monde-de-voyage-a-portee-de-clic {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    min-height: 30px;
+    min-width: 586px;
+    white-space: nowrap;
+  }
+  
+  .accueil .title {
+    left: 477px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 159px;
+    white-space: nowrap;
+  }
+  
+  .accueil .trouver-linspiration-pour-vos-vacances {
+    align-self: flex-start;
+    letter-spacing: 2.38px;
+    line-height: normal;
+    margin-left: 122px;
+    margin-top: 65px;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    height: 141px;
+    margin-left: 5.0px;
+    margin-top: 32px;
+    min-width: 1203px;
+  }
+  
+  .accueil .overlap-group25 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    min-width: 345px;
+    padding: 4px 6px;
+  }
+  
+  .accueil .plage {
+    letter-spacing: 1.90px;
+    min-height: 24px;
+  }
+  
+  .accueil .overlap-group26 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    margin-left: 80px;
+    min-width: 345px;
+    padding: 11px 1px;
+  }
+  
+  .accueil .club-vacance {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group24 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4-2@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    margin-left: 88px;
+    min-width: 345px;
+    padding: 18px 20px;
+  }
+  
+  .accueil .camping {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .accueil .flex-row {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 5.0px;
+    margin-top: 50px;
+    min-width: 1203px;
+  }
+  
+  .accueil .overlap-group27 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4-5@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    min-width: 345px;
+    padding: 18px 20px;
+  }
+  
+  .accueil .week-end {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group22 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    margin-left: 79px;
+    min-width: 345px;
+    padding: 18px 20px;
+  }
+  
+  .accueil .all-inclusive {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .accueil .rectangle-4 {
+    height: 138px;
+    margin-left: 89px;
+    object-fit: cover;
+    width: 345px;
+  }
+  
+  .accueil .nos-types-de-voyages {
+    align-self: flex-start;
+    letter-spacing: 2.38px;
+    line-height: normal;
+    margin-left: 123px;
+    margin-top: 88px;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .accueil .frame-52 {
+    align-items: flex-start;
+    display: flex;
+    height: 201px;
+    margin-right: 4.0px;
+    margin-top: 14px;
+    min-width: 1196px;
+  }
+  
+  .accueil .group {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 201px;
+    width: 346px;
+  }
+  
+  .accueil .overlap-group-3 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 138px;
+    padding: 0 35.7px;
+  }
+  
+  .accueil .couple {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .accueil .rectangle-5-2 {
+    width: 346px;
+  }
+  
+  .accueil .group-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 79px;
+    min-height: 201px;
+    width: 348px;
+  }
+  
+  .accueil .overlap-group1-1 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 137px;
+    padding: 0 34.0px;
+  }
+  
+  .accueil .famille {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 66px;
+  }
+  
+  .accueil .rectangle-5 {
+    height: 169px;
+    margin-left: 1.54px;
+    object-fit: cover;
+    width: 344px;
+  }
+  
+  .accueil .group-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 77px;
+    min-height: 201px;
+    width: 348px;
+  }
+  
+  .accueil .overlap-group {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    min-width: 137px;
+    padding: 0 37.1px;
+  }
+  
+  .accueil .affaire {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 62px;
+  }
+  
+  .accueil .frame-53 {
+    align-items: flex-start;
+    display: flex;
+    gap: 80px;
+    height: 201px;
+    margin-right: 2.0px;
+    margin-top: 34px;
+    min-width: 1198px;
+  }
+  
+  .accueil .group-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 201px;
+    width: 348px;
+  }
+  
+  .accueil .plage-1 {
+    letter-spacing: 1.14px;
+    min-height: 14px;
+    width: 53px;
+  }
+  
+  .accueil .overlap-group1-2 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 137px;
+    padding: 0 7.7px;
+  }
+  
+  .accueil .gastronomie {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 120px;
+  }
+  
+  .accueil .rectangle-5-1 {
+    width: 344px;
+  }
+  
+  .accueil .overlap-group2 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 137px;
+    padding: 0 24.7px;
+  }
+  
+  .accueil .culturel {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 76px;
+  }
+  
+  .accueil .nos-destinations-les-plus-populaires {
+    align-self: flex-start;
+    letter-spacing: 2.38px;
+    line-height: normal;
+    margin-left: 121px;
+    margin-top: 56px;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group-container-1 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    margin-left: 3.0px;
+    margin-top: 51px;
+    min-width: 1199px;
+    z-index: 3;
+  }
+  
+  .accueil .group-container {
+    height: 445px;
+    position: relative;
+    width: 347px;
+  }
+  
+  .accueil .overlap-group-4 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-7-3@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .accueil .rectangle-8 {
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    height: 34px;
+    left: 0;
+    position: absolute;
+    top: 411px;
+    width: 345px;
+  }
+  
+  .accueil .dakar-senegal {
+    left: 19px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 415px;
+    white-space: nowrap;
+  }
+  
+  .accueil .group-14 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 34px;
+    left: 198px;
+    min-width: 149px;
+    position: absolute;
+    top: 411px;
+  }
+  
+  .accueil .overlap-group1-3 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-9.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    min-width: 147px;
+    padding: 7px 28px;
+  }
+  
+  .accueil .voir-loffre {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group-container-2 {
+    height: 445px;
+    margin-left: 79px;
+    position: relative;
+    width: 345px;
+  }
+  
+  .accueil .overlap-group-5 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-7-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .accueil .paris-france {
+    left: 29px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 415px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group-1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-9.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    left: 198px;
+    min-width: 147px;
+    padding: 7px 28px;
+    position: absolute;
+    top: 411px;
+  }
+  
+  .accueil .overlap-group-container-3 {
+    height: 445px;
+    margin-left: 81px;
+    position: relative;
+    width: 347px;
+  }
+  
+  .accueil .overlap-group5 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-7-2@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .accueil .istanbul-turquie {
+    left: 20px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+  }
+  
+  .accueil .flex-col-1 {
+    align-items: center;
+    margin-top: 19px;
+    min-height: 1809px;
+    width: 1439px;
+    z-index: 2;
+  }
+  
+  .accueil .overlap-group-container-4 {
+    align-items: flex-end;
+    display: flex;
+    height: 454px;
+    margin-left: 2.0px;
+    min-width: 1199px;
+  }
+  
+  .accueil .overlap-group-container-5 {
+    height: 446px;
+    position: relative;
+    width: 347px;
+  }
+  
+  .accueil .overlap-group3 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-7@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .accueil .bresil {
+    left: 65px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group11 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-9.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    left: 198px;
+    min-width: 147px;
+    padding: 7px 28px;
+    position: absolute;
+    top: 412px;
+  }
+  
+  .accueil .overlap-group-container-6 {
+    height: 445px;
+    margin-bottom: 1px;
+    margin-left: 79px;
+    position: relative;
+    width: 345px;
+  }
+  
+  .accueil .overlap-group-6 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-7-5@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .accueil .place {
+    left: 24px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group-container-7 {
+    align-self: flex-start;
+    height: 445px;
+    margin-left: 78px;
+    position: relative;
+    width: 350px;
+  }
+  
+  .accueil .overlap-group4 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-7-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .accueil .zanzibar-tanzanie {
+    left: 10px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+  }
+  
+  .accueil .overlap-group9 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-9.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    left: 201px;
+    min-width: 147px;
+    padding: 7px 28px;
+    position: absolute;
+    top: 411px;
+  }
+  
+  .accueil .flex-row-1 {
+    align-items: flex-end;
+    display: flex;
+    height: 205px;
+    margin-right: 143.0px;
+    margin-top: 49px;
+    min-width: 1056px;
+  }
+  
+  .accueil .flex-col-2 {
+    align-items: center;
+    gap: 20px;
+    min-height: 205px;
+    width: 430px;
+  }
+  
+  .accueil .pourquoi-choisir-travel-treks {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    min-height: 30px;
+    min-width: 430px;
+    white-space: nowrap;
+  }
+  
+  .accueil .group-container-1 {
+    height: 155px;
+    margin-left: 49.0px;
+    position: relative;
+    width: 245px;
+  }
+  
+  .accueil .group-76 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    left: 21px;
+    min-height: 125px;
+    padding: 10px 0;
+    position: absolute;
+    top: 30px;
+    width: 224px;
+  }
+  
+  .accueil .paiement-flexible {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    margin-left: 1.0px;
+    min-height: 19px;
+    min-width: 147px;
+    white-space: nowrap;
+  }
+  
+  .accueil .reserver-un-accompte {
+    letter-spacing: 1.33px;
+    line-height: normal;
+    min-height: 51px;
+    width: 148px;
+  }
+  
+  .accueil .overlap-group1 {
+    align-items: flex-end;
+    background-color: var(--red);
+    border-radius: 29.5px;
+    display: flex;
+    height: 59px;
+    left: 0;
+    min-width: 59px;
+    padding: 14px 22px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .accueil .number {
+    min-height: 30px;
+    min-width: 15px;
+  }
+  
+  .accueil .overlap-group-container-8 {
+    height: 155px;
+    margin-left: 32px;
+    position: relative;
+    width: 249px;
+  }
+  
+  .accueil .overlap-group13 {
+    align-items: flex-end;
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    left: 21px;
+    min-height: 125px;
+    padding: 10px 11px;
+    position: absolute;
+    top: 30px;
+    width: 224px;
+  }
+  
+  .accueil .full-flex {
+    align-self: center;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    margin-right: 54.0px;
+    min-height: 19px;
+    min-width: 66px;
+    white-space: nowrap;
+  }
+  
+  .accueil .annuler-votre-voyage {
+    letter-spacing: 1.33px;
+    line-height: normal;
+    min-height: 51px;
+    width: 173px;
+  }
+  
+  .accueil .overlap-group14 {
+    height: 155px;
+    margin-left: 96px;
+    position: relative;
+    width: 245px;
+  }
+  
+  .accueil .overlap-group-7 {
+    height: 155px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 245px;
+  }
+  
+  .accueil .rectangle-30 {
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    height: 125px;
+    left: 21px;
+    position: absolute;
+    top: 30px;
+    width: 224px;
+  }
+  
+  .accueil .ellipse-1 {
+    background-color: var(--red);
+    border-radius: 29.5px;
+    height: 59px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 59px;
+  }
+  
+  .accueil .number-1 {
+    left: 22px;
+    position: absolute;
+    top: 15px;
+  }
+  
+  .accueil .appelez-et-reservez {
+    left: 72px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 37px;
+    white-space: nowrap;
+  }
+  
+  .accueil .trouver-les-vacances {
+    left: 75px;
+    letter-spacing: 1.33px;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+    width: 148px;
+  }
+  
+  .accueil .overlap-group12 {
+    height: 519px;
+    margin-right: 1.0px;
+    margin-top: 27px;
+    position: relative;
+    width: 1194px;
+  }
+  
+  .accueil .rectangle-25 {
+    background-color: #d9d9d9b5;
+    height: 481px;
+    left: 0;
+    position: absolute;
+    top: 38px;
+    width: 1194px;
+  }
+  
+  .accueil .x7115377_41342-1 {
+    height: 339px;
+    left: 108px;
+    object-fit: cover;
+    position: absolute;
+    top: 123px;
+    width: 500px;
+  }
+  
+  .accueil .overlap-group-8 {
+    align-items: flex-start;
+    background-color: var(--red-2);
+    border-radius: 12px;
+    display: flex;
+    height: 76px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 100px;
+    padding: 23px 26px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .accueil .price {
+    letter-spacing: 0.48px;
+    line-height: normal;
+    min-height: 29px;
+  }
+  
+  .accueil .les-sachets-plastiqu {
+    left: 629px;
+    letter-spacing: 0.32px;
+    line-height: 28.1px;
+    position: absolute;
+    top: 123px;
+    width: 427px;
+  }
+  
+  .accueil .group-container-2 {
+    align-self: flex-start;
+    height: 402px;
+    margin-top: 153px;
+    position: relative;
+    width: 1469px;
+  }
+  
+  .accueil .group-91 {
+    height: 402px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1469px;
+  }
+  
+  .accueil .overlap-group-9 {
+    align-items: flex-start;
+    background-color: var(--torea-bay);
+    display: flex;
+    gap: 27px;
+    height: 402px;
+    left: 0;
+    min-width: 1439px;
+    padding: 21.4px 122.9px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .accueil .travel-treks-1 {
+    align-self: flex-end;
+    height: 194px;
+    object-fit: cover;
+    width: 200px;
+  }
+  
+  .accueil .flex-col-3 {
+    align-items: flex-start;
+    gap: 26px;
+    margin-top: 2.91px;
+    min-height: 315px;
+    width: 651px;
+  }
+  
+  .accueil .flex-col-4 {
+    align-items: center;
+    min-height: 166px;
+    width: 624px;
+  }
+  
+  .accueil .inscrivez-vous-a-not {
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    white-space: nowrap;
+    width: 624px;
+  }
+  
+  .accueil .overlap-group1-4 {
+    height: 47px;
+    margin-right: 29.48px;
+    margin-top: 20px;
+    position: relative;
+    width: 543px;
+  }
+  
+  .accueil .rectangle-28 {
+    height: 47px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 425px;
+  }
+  
+  .accueil .email-adress {
+    left: 41px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+    width: 103px;
+  }
+  
+  .accueil .rectangle-29 {
+    height: 47px;
+    left: 364px;
+    position: absolute;
+    top: 0;
+    width: 179px;
+  }
+  
+  .accueil .abonner {
+    left: 444px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    white-space: nowrap;
+    width: 68px;
+  }
+  
+  .accueil .place-1 {
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    margin-right: 73.9px;
+    margin-top: 52px;
+    min-height: 24px;
+    min-width: 42px;
+    white-space: nowrap;
+  }
+  
+  .accueil .flex-row-2 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    height: 122px;
+    min-width: 412px;
+  }
+  
+  .accueil .flex-col-5 {
+    align-items: flex-start;
+    min-height: 122px;
+    width: 76px;
+  }
+  
+  .accueil .vol-simple {
+    min-height: 15px;
+    width: 57px;
+  }
+  
+  .accueil .aller-retour {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 27px;
+    min-height: 15px;
+    width: 71px;
+  }
+  
+  .accueil .economique {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 20px;
+    min-height: 15px;
+    width: 70px;
+  }
+  
+  .accueil .classe-affaire {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+    width: 76px;
+  }
+  
+  .accueil .flex-col-6 {
+    align-items: flex-start;
+    margin-left: 75px;
+    min-height: 122px;
+    width: 77px;
+  }
+  
+  .accueil .hotel {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 3.0px;
+    min-height: 15px;
+    width: 31px;
+  }
+  
+  .accueil .appartement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 3.0px;
+    margin-top: 27px;
+    min-height: 15px;
+    width: 74px;
+  }
+  
+  .accueil .chambre {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 20px;
+    min-height: 15px;
+    width: 55px;
+  }
+  
+  .accueil .suite {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+    width: 28px;
+  }
+  
+  .accueil .flex-col-7 {
+    align-items: flex-start;
+    margin-left: 96px;
+    min-height: 122px;
+    width: 88px;
+  }
+  
+  .accueil .prise-en-charge {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+    width: 88px;
+  }
+  
+  .accueil .annulation {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 27px;
+    min-height: 15px;
+    width: 59px;
+  }
+  
+  .accueil .reservation {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 20px;
+    min-height: 15px;
+    width: 64px;
+  }
+  
+  .accueil .promotion {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+    width: 58px;
+  }
+  
+  .accueil .hbergement {
+    left: 739px;
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    position: absolute;
+    top: 166px;
+    white-space: nowrap;
+  }
+  
+  .accueil .compte {
+    left: 912px;
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    position: absolute;
+    top: 166px;
+    white-space: nowrap;
+  }
+  
+  .accueil .place-2 {
+    left: 1085px;
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    position: absolute;
+    top: 166px;
+    white-space: nowrap;
+  }
+  
+  .accueil .group-103 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 1085px;
+    min-height: 101px;
+    position: absolute;
+    top: 207px;
+    width: 187px;
+  }
+  
+  .accueil .group-66 {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-left: 2.0px;
+    min-width: 130px;
+  }
+  
+  .accueil .traveltreks221gmailcom {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 21px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .accueil .phone {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 14px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .accueil .flex-col-8 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .accueil .icon-1 {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .accueil .icon-facebook-3 {
+    height: 30px;
+    object-fit: cover;
+    position: fixed;
+    top: 15px;
+    width: 30px;
+  }
+  
+  .accueil .number-2 {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .accueil .plage-2 {
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .accueil .rectangle-5-3 {
+    height: 169px;
+    object-fit: cover;
+  }
+  
+  .accueil .vol-1 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+ /*version-mobile*/
+ /* screen - mobile */
+
+.mobile {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 7598px;
+    overflow: hidden;
+    width: 390px;
+  }
+  
+  .mobile .overlap-group20 {
+    align-items: flex-start;
+    background-color: var(--governor-bay);
+    display: flex;
+    height: 48px;
+    margin-left: 3.0px;
+    min-width: 393px;
+    padding: 6.0px 13px;
+  }
+  
+  .mobile .batterie-pleine-1-1 {
+    height: 20px;
+    margin-top: 0.95px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .mobile .text-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 8px;
+    margin-top: 3.95px;
+    min-height: 13px;
+    min-width: 30px;
+    white-space: nowrap;
+  }
+  
+  .mobile .icon-wifi {
+    height: 16px;
+    width: 15px;
+  }
+  
+  .mobile .icon-menu {
+    align-self: center;
+    height: 29px;
+    margin-left: 250px;
+    margin-top: 1.4px;
+    width: 30px;
+  }
+  
+  .mobile .rectangle-44 {
+    height: 446px;
+    object-fit: cover;
+    width: 390px;
+  }
+  
+  .mobile .overlap-group22 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 41px;
+    margin-left: 3.0px;
+    margin-top: 21px;
+    min-height: 105px;
+    width: 331px;
+  }
+  
+  .mobile .bienvenue-chez-travel-treks {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.30px;
+    line-height: normal;
+    margin-right: 32.0px;
+    margin-top: 9px;
+    min-height: 36px;
+    width: 143px;
+  }
+  
+  .mobile .trouver-linspiration-pour-vos-vacances {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 331px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-70 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 7.0px;
+    margin-top: 33px;
+    min-height: 923px;
+    width: 349px;
+  }
+  
+  .mobile .overlap-group1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    min-width: 345px;
+    padding: 5px 6px;
+  }
+  
+  .mobile .plage {
+    letter-spacing: 1.90px;
+    min-height: 24px;
+  }
+  
+  .mobile .rectangle-4 {
+    height: 138px;
+    margin-top: 22px;
+    object-fit: cover;
+    width: 345px;
+  }
+  
+  .mobile .rectangle-4-1 {
+    height: 138px;
+    margin-top: 17px;
+    object-fit: cover;
+    width: 345px;
+  }
+  
+  .mobile .overlap-group-1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-4-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 138px;
+    margin-top: 17px;
+    min-width: 345px;
+    padding: 19px 20px;
+  }
+  
+  .mobile .all-inclusive {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile .title {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    margin-right: 2.0px;
+    margin-top: 41px;
+    min-height: 30px;
+    min-width: 286px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 4.0px;
+    margin-top: 16px;
+    min-height: 201px;
+    width: 346px;
+  }
+  
+  .mobile .overlap-group-2 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 138px;
+    padding: 0 35.7px;
+  }
+  
+  .mobile .couple {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .mobile .rectangle-5-2 {
+    width: 346px;
+  }
+  
+  .mobile .group-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 6.0px;
+    margin-top: 15px;
+    min-height: 201px;
+    width: 348px;
+  }
+  
+  .mobile .overlap-group2 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 137px;
+    padding: 0 34.0px;
+  }
+  
+  .mobile .famille {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 66px;
+  }
+  
+  .mobile .rectangle-5 {
+    height: 169px;
+    margin-left: 1.54px;
+    object-fit: cover;
+    width: 344px;
+  }
+  
+  .mobile .group {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 4.0px;
+    margin-top: 15px;
+    min-height: 201px;
+    width: 348px;
+  }
+  
+  .mobile .overlap-group {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    min-width: 137px;
+    padding: 0 37.1px;
+  }
+  
+  .mobile .affaire {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 62px;
+  }
+  
+  .mobile .plage-1 {
+    letter-spacing: 1.14px;
+    min-height: 14px;
+    width: 53px;
+  }
+  
+  .mobile .group-6 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 8.0px;
+    margin-top: 15px;
+    min-height: 201px;
+    width: 346px;
+  }
+  
+  .mobile .overlap-group5 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 137px;
+    padding: 0 7.7px;
+  }
+  
+  .mobile .gastronomie {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 120px;
+  }
+  
+  .mobile .rectangle-5-1 {
+    width: 344px;
+  }
+  
+  .mobile .group-7 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2.0px;
+    margin-top: 15px;
+    min-height: 201px;
+    width: 346px;
+  }
+  
+  .mobile .overlap-group6 {
+    align-items: center;
+    background-color: var(--governor-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 32px;
+    justify-content: flex-end;
+    min-width: 137px;
+    padding: 0 24.7px;
+  }
+  
+  .mobile .culturel {
+    letter-spacing: 1.14px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+    width: 76px;
+  }
+  
+  .mobile .nos-destinations-les-plus-populaires {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    margin-right: 15.0px;
+    margin-top: 28px;
+    min-height: 19px;
+    min-width: 305px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-71 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 1.0px;
+    margin-top: 29px;
+    min-width: 313px;
+  }
+  
+  .mobile .overlap-group-container-2 {
+    height: 396px;
+    position: relative;
+    width: 313px;
+  }
+  
+  .mobile .overlap-group-3 {
+    height: 396px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 313px;
+  }
+  
+  .mobile .rectangle-7 {
+    height: 389px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 313px;
+  }
+  
+  .mobile .rectangle-8-1 {
+    height: 30px;
+    top: 360px;
+    width: 313px;
+  }
+  
+  .mobile .dakar-senegal {
+    left: 17px;
+    letter-spacing: 1.04px;
+    line-height: normal;
+    position: absolute;
+    top: 363px;
+    width: 139px;
+  }
+  
+  .mobile .overlap-group1-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-9-6.svg);
+    height: 30px;
+    left: 180px;
+    min-width: 133px;
+    padding: 6.1px 40.8px;
+    top: 360px;
+  }
+  
+  .mobile .voir-loffre {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 13px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-72 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 1.0px;
+    margin-top: 19px;
+    min-width: 305px;
+  }
+  
+  .mobile .overlap-group-container {
+    height: 445px;
+    position: relative;
+    width: 305px;
+  }
+  
+  .mobile .overlap-group-4 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-7-7@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+  .mobile .rectangle-8 {
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    height: 34px;
+    left: 0;
+    position: absolute;
+    top: 411px;
+    width: 305px;
+  }
+  
+  .mobile .paris-france {
+    left: 35px;
+    letter-spacing: 1.04px;
+    line-height: normal;
+    position: absolute;
+    top: 417px;
+    white-space: nowrap;
+    width: 118px;
+  }
+  
+  .mobile .overlap-group1-2 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-9-8.svg);
+    height: 34px;
+    justify-content: flex-end;
+    left: 175px;
+    min-width: 130px;
+    padding: 7px 39.0px;
+    top: 411px;
+  }
+  
+  .mobile .overlap-group-container-3 {
+    height: 445px;
+    margin-left: 2.96px;
+    margin-top: 32px;
+    position: relative;
+    width: 307px;
+  }
+  
+  .mobile .overlap-group-5 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-7-8@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+  .mobile .istanbul-turquie {
+    left: 18px;
+    letter-spacing: 1.04px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+  }
+  
+  .mobile .overlap-group9 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6457daf912043409af5a9cbb/img/rectangle-9-2.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    left: 175px;
+    min-width: 130px;
+    padding: 7px 39.2px;
+    position: absolute;
+    top: 411px;
+  }
+  
+  .mobile .overlap-group-container-1 {
+    height: 445px;
+    margin-left: 3.0px;
+    margin-top: 29px;
+    position: relative;
+    width: 307px;
+  }
+  
+  .mobile .overlap-group10 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-7-9@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+  .mobile .bresil {
+    left: 57px;
+    letter-spacing: 1.04px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+    width: 53px;
+  }
+  
+  .mobile .overlap-group11 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6457daf912043409af5a9cbb/img/rectangle-9-3.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    left: 175px;
+    min-width: 130px;
+    padding: 7px 24.8px;
+    position: absolute;
+    top: 411px;
+  }
+  
+  .mobile .group-74 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 1.0px;
+    margin-top: 28px;
+    min-width: 305px;
+  }
+  
+  .mobile .overlap-group-6 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-7-10@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+  .mobile .place {
+    left: 21px;
+    letter-spacing: 1.04px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+    width: 73px;
+  }
+  
+  .mobile .overlap-group1-3 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-9-8.svg);
+    height: 34px;
+    justify-content: flex-end;
+    left: 175px;
+    min-width: 130px;
+    padding: 7px 24.8px;
+    top: 411px;
+  }
+  
+  .mobile .overlap-group13 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6455055166034f2e9cabcdf7/img/rectangle-7-11@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 445px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 302px;
+  }
+  
+  .mobile .rectangle-8-2 {
+    height: 34px;
+    top: 411px;
+    width: 302px;
+  }
+  
+  .mobile .zanzibar-tanzanie {
+    left: 9px;
+    letter-spacing: 1.04px;
+    line-height: normal;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+    width: 168px;
+  }
+  
+  .mobile .overlap-group14 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6457daf912043409af5a9cbb/img/rectangle-9-5.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    left: 176px;
+    min-width: 129px;
+    padding: 7px 24.5px;
+    position: absolute;
+    top: 396px;
+  }
+  
+  .mobile .pourquoi-choisir-travel-treks {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-s2);
+    font-weight: 700;
+    letter-spacing: 1.90px;
+    line-height: normal;
+    margin-top: 35px;
+    min-height: 24px;
+    min-width: 344px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-container {
+    align-items: center;
+    display: flex;
+    gap: 19px;
+    height: 125px;
+    margin-right: 2.0px;
+    margin-top: 57px;
+    min-width: 302px;
+  }
+  
+  .mobile .overlap-group15 {
+    align-items: flex-end;
+    background-color: var(--red);
+    border-radius: 29.5px;
+    display: flex;
+    height: 59px;
+    margin-bottom: 6.0px;
+    min-width: 59px;
+    padding: 14px 22px;
+  }
+  
+  .mobile .number {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    min-height: 30px;
+    min-width: 15px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-76 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    min-height: 125px;
+    padding: 10px 0;
+    width: 224px;
+  }
+  
+  .mobile .paiement-flexible {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    margin-left: 1.0px;
+    min-height: 19px;
+    min-width: 147px;
+    white-space: nowrap;
+  }
+  
+  .mobile .ver {
+    letter-spacing: 1.33px;
+    line-height: normal;
+    min-height: 51px;
+    width: 148px;
+  }
+  
+  .mobile .overlap-group-container-4 {
+    align-items: center;
+    display: flex;
+    gap: 16px;
+    height: 125px;
+    margin-right: 3.0px;
+    margin-top: 32px;
+    min-width: 303px;
+  }
+  
+  .mobile .overlap-group16 {
+    align-items: flex-end;
+    background-color: var(--red);
+    border-radius: 29.5px;
+    display: flex;
+    height: 59px;
+    min-width: 59px;
+    padding: 14px 22px;
+  }
+  
+  .mobile .overlap-group18 {
+    align-items: flex-end;
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    min-height: 125px;
+    padding: 10px 11px;
+    width: 224px;
+  }
+  
+  .mobile .full-flex {
+    align-self: center;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    margin-right: 54.0px;
+    min-height: 19px;
+    min-width: 66px;
+    white-space: nowrap;
+  }
+  
+  .mobile .annuler-votre-voyage {
+    letter-spacing: 1.33px;
+    line-height: normal;
+    min-height: 51px;
+    width: 173px;
+  }
+  
+  .mobile .overlap-group-container-5 {
+    align-items: center;
+    display: flex;
+    gap: 15px;
+    height: 125px;
+    margin-right: 6.0px;
+    margin-top: 30px;
+    min-width: 298px;
+  }
+  
+  .mobile .overlap-group17 {
+    align-items: flex-end;
+    background-color: var(--red);
+    border-radius: 29.5px;
+    display: flex;
+    height: 59px;
+    margin-bottom: 14.0px;
+    min-width: 59px;
+    padding: 14px 22px;
+  }
+  
+  .mobile .overlap-group23 {
+    align-items: flex-end;
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    min-height: 125px;
+    padding: 6px 22px;
+    width: 224px;
+  }
+  
+  .mobile .appelez-et-reservez {
+    align-self: center;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 172px;
+    white-space: nowrap;
+  }
+  
+  .mobile .group-80 {
+    align-items: flex-start;
+    align-self: flex-start;
+    display: flex;
+    margin-left: 24px;
+    margin-top: 57px;
+    min-width: 143px;
+  }
+  
+  .mobile .overlap-group19 {
+    align-items: flex-start;
+    background-color: var(--red-2);
+    border-radius: 12px;
+    display: flex;
+    height: 76px;
+    justify-content: flex-end;
+    min-width: 141px;
+    padding: 23px 36.7px;
+  }
+  
+  .mobile .price {
+    letter-spacing: 0.48px;
+    line-height: normal;
+    min-height: 29px;
+    width: 66px;
+  }
+  
+  .mobile .les-sachets-plastiqu {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxxxs);
+    font-weight: 700;
+    letter-spacing: 0.20px;
+    line-height: 17.5px;
+    margin-right: 15.0px;
+    margin-top: 27px;
+    min-height: 136px;
+    width: 327px;
+  }
+  
+  .mobile .x7115377_41342-1 {
+    height: 329px;
+    margin-right: 15.0px;
+    margin-top: 38px;
+    object-fit: cover;
+    width: 345px;
+  }
+  
+  .mobile .inscrivez-vous-a-not {
+    letter-spacing: 0.24px;
+    line-height: 17.7px;
+    margin-left: 16.0px;
+    margin-top: 22px;
+    min-height: 36px;
+    width: 248px;
+  }
+  
+  .mobile .overlap-group24 {
+    height: 31px;
+    margin-left: 28.0px;
+    margin-top: 24px;
+    position: relative;
+    width: 260px;
+  }
+  
+  .mobile .rectangle-50 {
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 168px;
+  }
+  
+  .mobile .adress-mail {
+    left: 15px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .mobile .rectangle-51 {
+    height: 31px;
+    left: 145px;
+    position: absolute;
+    top: 0;
+    width: 90px;
+  }
+  
+  .mobile .envoyer {
+    left: 170px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+    width: 90px;
+  }
+  
+  .mobile .flex-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 130px;
+    height: 22px;
+    margin-right: 6.0px;
+    margin-top: 48px;
+    min-width: 296px;
+  }
+  
+  .mobile .place-1 {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 38px;
+  }
+  
+  .mobile .hebergement {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+  }
+  
+  .mobile .group-container-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 84px;
+    height: 134px;
+    margin-right: 38.0px;
+    margin-top: 24px;
+    min-width: 264px;
+  }
+  
+  .mobile .group-81 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 126px;
+    width: 84px;
+  }
+  
+  .mobile .vol-simple {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile .aller-retour {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 28px;
+    min-height: 15px;
+  }
+  
+  .mobile .economique {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 21px;
+    min-height: 15px;
+  }
+  
+  .mobile .classe-affaire {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+  }
+  
+  .mobile .group-82 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    min-height: 126px;
+    width: 96px;
+  }
+  
+  .mobile .prise-en-charge {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile .annulation {
+    margin-top: 28px;
+  }
+  
+  .mobile .flex-row-1 {
+    gap: 91px;
+    height: 22px;
+    margin-right: 74.0px;
+    margin-top: 44px;
+    min-width: 234px;
+  }
+  
+  .mobile .compte {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 69px;
+  }
+  
+  .mobile .place-2 {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+  }
+  
+  .mobile .flex-row-2 {
+    gap: 72px;
+    height: 15px;
+    margin-right: 80.0px;
+    margin-top: 28px;
+    min-width: 224px;
+  }
+  
+  .mobile .prise-en-charge-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+    min-width: 88px;
+  }
+  
+  .mobile .phone {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile .flex-row-3 {
+    gap: 99px;
+    height: 15px;
+    margin-left: 17.0px;
+    margin-top: 28px;
+    min-width: 321px;
+  }
+  
+  .mobile .annulation-1 {
+    min-width: 59px;
+  }
+  
+  .mobile .travelstrakes221gmailcom {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile .reservation-1 {
+    align-self: flex-start;
+    margin-left: 43px;
+  }
+  
+  .mobile .promotion-1 {
+    align-self: flex-start;
+    margin-left: 43px;
+  }
+  
+  .mobile .overlap-group27 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    display: flex;
+    height: 37px;
+    margin-top: 6px;
+    min-width: 390px;
+    padding: 0 110px;
+  }
+  
+  .mobile .copyright-travelstrakes {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 17px;
+    min-width: 165px;
+  }
+  
+  .mobile .annulation-2 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile .flex-row-4 {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .mobile .overlap-group1-4 {
+    align-items: flex-start;
+    background-size: 100% 100%;
+    display: flex;
+    position: absolute;
+  }
+  
+  .mobile .plage-2 {
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .mobile .promotion-2 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+  }
+  
+  .mobile .rectangle-5-3 {
+    height: 169px;
+    object-fit: cover;
+  }
+  
+  .mobile .rectangle-8-3 {
+    background-color: var(--torea-bay);
+    border-radius: 10px;
+    left: 0;
+    position: absolute;
+  }
+  
+  .mobile .reservation-2 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 21px;
+    min-height: 15px;
+  }
+   

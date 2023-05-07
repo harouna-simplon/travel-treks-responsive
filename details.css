@@ -1,0 +1,2143 @@
+/* screen - details */
+
+.details {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 3297px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .details .rectangle-1 {
+    background-color: var(--lochmara);
+    height: 59px;
+    left: 0;
+    position: fixed;
+    top: -2px;
+    width: 1441px;
+    z-index: 17;
+  }
+  
+  .details .icon-instagram {
+    left: 1244px;
+    position: fixed;
+    top: 13px;
+    z-index: 20;
+  }
+  
+  .details .icon-twitter {
+    left: 1344px;
+    position: fixed;
+    top: 13px;
+    z-index: 21;
+  }
+  
+  .details .icon-facebook {
+    left: 1294px;
+    position: fixed;
+    top: 13px;
+    z-index: 22;
+  }
+  
+  .details .explorer-le-monde-vivez-laventure {
+    left: 15px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 16px;
+    width: 416px;
+    z-index: 18;
+  }
+  
+  .details .reservation-777533518 {
+    left: 965px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 16px;
+    width: 228px;
+    z-index: 19;
+  }
+  
+  .details .rectangle-54 {
+    background-color: var(--white);
+    height: 103px;
+    left: 1px;
+    position: fixed;
+    top: 57px;
+    width: 1440px;
+    z-index: 12;
+  }
+  
+  .details .travel_treks-removebg-preview-1 {
+    height: 100px;
+    left: 123px;
+    object-fit: cover;
+    position: fixed;
+    top: 60px;
+    width: 100px;
+    z-index: 13;
+  }
+  
+  .details .icon-question_mark {
+    cursor: pointer;
+    left: 1244px;
+    position: fixed;
+    top: 90px;
+    z-index: 15;
+  }
+  
+  .details .frame-62 {
+    align-items: center;
+    display: flex;
+    gap: 50px;
+    left: 411px;
+    position: fixed;
+    top: 91px;
+    width: fit-content;
+    z-index: 14;
+  }
+  
+  .details .frame-57 {
+    cursor: pointer;
+    height: 39px;
+    min-width: 89px;
+    position: relative;
+  }
+  
+  .details .accueil {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .details .frame-58 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .details .vol {
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .details .frame {
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .details .hebergement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .details .vente-flash {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .details .mon-compte {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .details .aide {
+    left: 1244px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 129px;
+    white-space: nowrap;
+    z-index: 16;
+  }
+  
+  .details .flex-col-1 {
+    align-items: flex-start;
+    gap: 68px;
+    margin-top: 160px;
+    min-height: 569px;
+    width: 1440px;
+    z-index: 1;
+  }
+  
+  .details .overlap-group10 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-3-4.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 66px;
+    min-height: 482px;
+    padding: 159px 426px;
+    width: 1440px;
+  }
+  
+  .details .overlap-group13 {
+    align-self: center;
+    height: 36px;
+    margin-right: 1.0px;
+    position: relative;
+    width: 485px;
+  }
+  
+  .details .overlap-group13-item {
+    left: 0;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .details .decouvrons-ensemble {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    min-height: 60px;
+  }
+  
+  .details .guide-de-voyage {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-left: 123px;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .group-container {
+    align-items: flex-end;
+    align-self: center;
+    display: flex;
+    height: 194px;
+    margin-left: 64.0px;
+    margin-top: 43px;
+    min-width: 1258px;
+    z-index: 5;
+  }
+  
+  .details .group-container-1 {
+    align-self: flex-start;
+    height: 190px;
+    position: relative;
+    width: 227px;
+  }
+  
+  .details .group-23 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    left: 0;
+    min-height: 185px;
+    position: absolute;
+    top: 5px;
+    width: 227px;
+  }
+  
+  .details .overlap-group {
+    height: 141px;
+    position: relative;
+    width: 223px;
+  }
+  
+  .details .rectangle-10 {
+    height: 127px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .details .rectangle-11 {
+    height: 12px;
+    left: 8px;
+    position: absolute;
+    top: 127px;
+    width: 208px;
+  }
+  
+  .details .monument-de-la-renaissance {
+    left: 26px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .localisation {
+    min-height: 42px;
+  }
+  
+  .details .group-105 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    left: 0;
+    min-height: 185px;
+    position: absolute;
+    top: 0;
+    width: 227px;
+  }
+  
+  .details .group-24 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-left: 115px;
+    min-height: 187px;
+    width: 228px;
+  }
+  
+  .details .overlap-group4 {
+    height: 139px;
+    margin-left: 1px;
+    position: relative;
+    width: 223px;
+  }
+  
+  .details .lac-rose {
+    left: 74px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 123px;
+  }
+  
+  .details .group-25 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-left: 112px;
+    min-height: 185px;
+    width: 232px;
+  }
+  
+  .details .overlap-group5 {
+    align-self: flex-end;
+    height: 141px;
+    margin-right: 4px;
+    position: relative;
+    width: 223px;
+  }
+  
+  .details .parc-niokolo-koba {
+    left: 63px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .overlap-group6 {
+    align-self: center;
+    height: 182px;
+    margin-bottom: 2.0px;
+    margin-left: 116px;
+    position: relative;
+    width: 224px;
+  }
+  
+  .details .rectangle-10-1 {
+    height: 127px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .details .rectangle-11-1 {
+    height: 12px;
+    left: 9px;
+    position: absolute;
+    top: 127px;
+    width: 208px;
+  }
+  
+  .details .ile-de-gre {
+    left: 82px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .localisation-dakar {
+    left: 0;
+    position: absolute;
+    top: 140px;
+  }
+  
+  .details .frame-64 {
+    align-items: flex-end;
+    align-self: center;
+    display: flex;
+    gap: 120px;
+    margin-left: 58.0px;
+    margin-top: 8px;
+    position: relative;
+    width: fit-content;
+    z-index: 6;
+  }
+  
+  .details .group-2 {
+    height: 194px;
+    min-width: 228px;
+    position: relative;
+  }
+  
+  .details .overlap-group-1 {
+    height: 141px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .details .saly-portydal {
+    left: 67px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .localisation-1 {
+    left: 0;
+    position: absolute;
+    top: 152px;
+  }
+  
+  .details .ilot-sarpan {
+    left: 74px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .pointr-des-almadies {
+    left: 47px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .group-30 {
+    height: 194px;
+    margin-right: -4.00px;
+    min-width: 228px;
+    position: relative;
+  }
+  
+  .details .iles-du-saloum {
+    left: 74px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .details .trouver-un-hebergement {
+    align-self: flex-start;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-left: 123px;
+    margin-top: 40px;
+    min-height: 19px;
+    white-space: nowrap;
+    z-index: 4;
+  }
+  
+  .details .frame-65 {
+    align-items: flex-end;
+    align-self: center;
+    display: flex;
+    gap: 102px;
+    margin-left: 2.0px;
+    margin-top: 48px;
+    position: relative;
+    width: fit-content;
+    z-index: 7;
+  }
+  
+  .details .group-3 {
+    height: 254px;
+    min-width: 227px;
+    position: relative;
+  }
+  
+  .details .flex-col {
+    flex-direction: column;
+    min-height: 254px;
+    width: 223px;
+  }
+  
+  .details .overlap-group-3 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 101px;
+    padding: 0 21px;
+  }
+  
+  .details .hotel {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 54px;
+    white-space: nowrap;
+  }
+  
+  .details .rectangle-12 {
+    height: 184px;
+    object-fit: cover;
+    width: 223px;
+  }
+  
+  .details .overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    min-width: 101px;
+    padding: 9px 5px;
+  }
+  
+  .details .appartement {
+    letter-spacing: 0.24px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .details .overlap-group2 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 101px;
+    padding: 0 9px;
+  }
+  
+  .details .chambre {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 82px;
+    white-space: nowrap;
+  }
+  
+  .details .x10000-chambres {
+    letter-spacing: 0.26px;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 17px;
+    min-height: 16px;
+  }
+  
+  .details .group-34 {
+    height: 254px;
+    margin-right: -4.00px;
+    min-width: 227px;
+    position: relative;
+  }
+  
+  .details .overlap-group3 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 101px;
+    padding: 0 14px;
+  }
+  
+  .details .chalet {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  
+  .details .restaurations {
+    align-self: flex-start;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-left: 111px;
+    margin-top: 50px;
+    min-height: 19px;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  
+  .details .overlap-group9 {
+    height: 559px;
+    margin-top: 70px;
+    position: relative;
+    width: 1440px;
+    z-index: 8;
+  }
+  
+  .details .rectangle-14 {
+    height: 558px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 1440px;
+  }
+  
+  .details .rectangle-15 {
+    background-color: #0071c273;
+    height: 558px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .details .frame-66 {
+    align-items: flex-start;
+    display: flex;
+    gap: 121px;
+    left: 92px;
+    position: absolute;
+    top: 102px;
+    width: fit-content;
+  }
+  
+  .details .group-3-1 {
+    height: 354px;
+    min-width: 229px;
+    position: relative;
+  }
+  
+  .details .rectangle-16 {
+    height: 258px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .details .overlap-group-2 {
+    align-items: flex-start;
+    background-color: var(--governor-bay);
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 96px;
+    padding: 8px 14px;
+    position: absolute;
+    top: 258px;
+    width: 223px;
+  }
+  
+  .details .nom-yes-food {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .lieudakar {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-top: 6px;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .niveau {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-top: 10px;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .nomlodge-almadies {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .nomle-ngoor {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .group-38 {
+    height: 354px;
+    margin-right: -6.00px;
+    min-width: 229px;
+    position: relative;
+  }
+  
+  .details .nomla-piazza {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .overlap-group7 {
+    align-items: flex-start;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 60px;
+    justify-content: flex-end;
+    left: 619px;
+    min-width: 190px;
+    padding: 20px 46px;
+    position: absolute;
+    top: 498px;
+  }
+  
+  .details .voir-plus {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .details .surname {
+    align-self: flex-start;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-left: 121px;
+    margin-top: 68px;
+    min-height: 19px;
+    white-space: nowrap;
+    z-index: 3;
+  }
+  
+  .details .frame-54 {
+    align-items: flex-end;
+    align-self: center;
+    display: flex;
+    gap: 88px;
+    margin-right: 22.0px;
+    margin-top: 92px;
+    position: relative;
+    width: fit-content;
+    z-index: 9;
+  }
+  
+  .details .group-5 {
+    height: 178px;
+    min-width: 230px;
+    position: relative;
+  }
+  
+  .details .rectangle-31 {
+    height: 133px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .details .au-senegal-vous-all {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .le-mbalakh-est-la-mu {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .group-55 {
+    height: 178px;
+    margin-right: -2.00px;
+    min-width: 230px;
+    position: relative;
+  }
+  
+  .details .au-senegal-le-rythm {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .frame-55 {
+    align-items: flex-end;
+    align-self: center;
+    display: flex;
+    gap: 88px;
+    margin-right: 22.0px;
+    margin-top: 91px;
+    position: relative;
+    width: fit-content;
+    z-index: 10;
+  }
+  
+  .details .au-sngal-le-sport {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .dans-ce-pays-le-plat {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .le-senegal-est-un-pa {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .overlap-group12 {
+    height: 402px;
+    margin-right: -1px;
+    margin-top: 50px;
+    position: relative;
+    width: 1441px;
+    z-index: 11;
+  }
+  
+  .details .line-1 {
+    height: 1px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 127px;
+    width: 1439px;
+  }
+  
+  .details .group {
+    height: 402px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1471px;
+  }
+  
+  .details .overlap-group-4 {
+    align-items: flex-start;
+    background-color: var(--torea-bay);
+    display: flex;
+    gap: 27px;
+    height: 402px;
+    left: 0;
+    min-width: 1441px;
+    padding: 8.3px 121.7px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .details .travel-treks-1 {
+    align-self: flex-end;
+    height: 194px;
+    margin-bottom: 29.09px;
+    object-fit: cover;
+    width: 199px;
+  }
+  
+  .details .flex-col-2 {
+    align-items: flex-start;
+    gap: 26px;
+    min-height: 315px;
+    width: 649px;
+  }
+  
+  .details .flex-col-3 {
+    align-items: center;
+    min-height: 166px;
+    width: 622px;
+  }
+  
+  .details .inscrivez-vous-a-not {
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    white-space: nowrap;
+    width: 622px;
+  }
+  
+  .details .overlap-group1-1 {
+    height: 47px;
+    margin-right: 29.42px;
+    margin-top: 20px;
+    position: relative;
+    width: 542px;
+  }
+  
+  .details .rectangle-28 {
+    height: 47px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 424px;
+  }
+  
+  .details .email-adress {
+    left: 41px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+    width: 103px;
+  }
+  
+  .details .rectangle-29 {
+    height: 47px;
+    left: 363px;
+    position: absolute;
+    top: 0;
+    width: 179px;
+  }
+  
+  .details .abonner {
+    left: 443px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    white-space: nowrap;
+    width: 68px;
+  }
+  
+  .details .place {
+    margin-right: 73.62px;
+    margin-top: 52px;
+    min-height: 24px;
+    min-width: 42px;
+  }
+  
+  .details .flex-row {
+    align-self: flex-end;
+    height: 122px;
+    min-width: 411px;
+  }
+  
+  .details .flex-col-4 {
+    align-items: flex-start;
+    min-height: 122px;
+    width: 76px;
+  }
+  
+  .details .vol-simple {
+    min-height: 15px;
+    width: 57px;
+  }
+  
+  .details .aller-retour {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 27px;
+    min-height: 15px;
+    width: 71px;
+  }
+  
+  .details .economique {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 20px;
+    min-height: 15px;
+    width: 70px;
+  }
+  
+  .details .classe-affaire {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+    width: 76px;
+  }
+  
+  .details .flex-col-5 {
+    align-items: flex-start;
+    margin-left: 75px;
+    min-height: 122px;
+    width: 77px;
+  }
+  
+  .details .hotel-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2.99px;
+    min-height: 15px;
+    width: 31px;
+  }
+  
+  .details .appartement-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2.99px;
+    margin-top: 27px;
+    min-height: 15px;
+    width: 74px;
+  }
+  
+  .details .chambre-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 20px;
+    min-height: 15px;
+    width: 55px;
+  }
+  
+  .details .suite {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+    width: 28px;
+  }
+  
+  .details .flex-col-6 {
+    align-items: flex-start;
+    margin-left: 96px;
+    min-height: 122px;
+    width: 88px;
+  }
+  
+  .details .prise-en-charge {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+    width: 88px;
+  }
+  
+  .details .annulation {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 27px;
+    min-height: 15px;
+    width: 59px;
+  }
+  
+  .details .reservation {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 20px;
+    min-height: 15px;
+    width: 64px;
+  }
+  
+  .details .promotion {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+    width: 58px;
+  }
+  
+  .details .hbergement {
+    left: 737px;
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    position: absolute;
+    top: 150px;
+    white-space: nowrap;
+  }
+  
+  .details .compte {
+    left: 909px;
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    position: absolute;
+    top: 150px;
+    white-space: nowrap;
+  }
+  
+  .details .place-1 {
+    left: 1082px;
+    position: absolute;
+    top: 150px;
+  }
+  
+  .details .group-103 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 1085px;
+    min-height: 101px;
+    position: absolute;
+    top: 189px;
+    width: 186px;
+  }
+  
+  .details .group-66 {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    margin-left: 2.0px;
+    min-width: 130px;
+    padding: 0 0.0px;
+  }
+  
+  .details .traveltreks221gmailcom {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 21px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .details .phone {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 14px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .details .address-3 {
+    letter-spacing: 0.26px;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 17px;
+    min-height: 16px;
+  }
+  
+  .details .au-senegal {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .details .flex {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .details .flex-col-7 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .details .icon-1 {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .details .localisation-2 {
+    letter-spacing: 0.24px;
+    line-height: normal;
+  }
+  
+  .details .place-2 {
+    letter-spacing: 0.32px;
+    line-height: 23.6px;
+    white-space: nowrap;
+  }
+  
+  .details .vol-1 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+
+/* screen - mobile-details */
+
+.mobile-details {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 7908px;
+    overflow: hidden;
+    width: 390px;
+  }
+  
+  .mobile-details .overlap-group9 {
+    align-items: flex-start;
+    background-color: var(--governor-bay);
+    display: flex;
+    height: 48px;
+    margin-left: 3.0px;
+    min-width: 393px;
+    padding: 6.3px 13px;
+  }
+  
+  .mobile-details .batterie-pleine-1-1 {
+    height: 20px;
+    margin-top: 0.7px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .mobile-details .text-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 8px;
+    margin-top: 3.7px;
+    min-height: 13px;
+    min-width: 30px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .icon-wifi {
+    height: 17px;
+    width: 15px;
+  }
+  
+  .mobile-details .icon-menu {
+    align-self: flex-end;
+    height: 30px;
+    margin-bottom: 0.78px;
+    margin-left: 250px;
+    width: 30px;
+  }
+  
+  .mobile-details .overlap-group10 {
+    align-items: flex-end;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/6457daf912043409af5a9cbb/img/rectangle-3@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 440px;
+    justify-content: flex-end;
+    min-width: 390px;
+    padding: 122px 15px;
+  }
+  
+  .mobile-details .decouvrons-ensemble {
+    letter-spacing: 1.52px;
+    line-height: normal;
+    min-height: 99px;
+    width: 358px;
+  }
+  
+  .mobile-details .guide-de-voyage {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-right: 57.0px;
+    margin-top: 27px;
+    min-height: 19px;
+    min-width: 123px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .frame-63 {
+    justify-content: flex-end;
+    margin-top: 28px;
+    width: 232px;
+  }
+  
+  .mobile-details .group-105 {
+    height: 185px;
+    min-width: 227px;
+    position: relative;
+  }
+  
+  .mobile-details .overlap-group-2 {
+    height: 141px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .rectangle-10 {
+    height: 127px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .rectangle-11 {
+    height: 12px;
+    left: 8px;
+    position: absolute;
+    top: 127px;
+    width: 208px;
+  }
+  
+  .mobile-details .monument-de-la-renaissance {
+    left: 26px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .localisation {
+    left: 0;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 143px;
+  }
+  
+  .mobile-details .group-24 {
+    height: 187px;
+    min-width: 228px;
+    position: relative;
+  }
+  
+  .mobile-details .overlap-group1 {
+    height: 139px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .lac-rose {
+    left: 74px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 123px;
+  }
+  
+  .mobile-details .localisation-20mk-d {
+    left: 0;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 145px;
+  }
+  
+  .mobile-details .group-25 {
+    height: 185px;
+    min-width: 232px;
+    position: relative;
+  }
+  
+  .mobile-details .overlap-group2 {
+    height: 141px;
+    left: 5px;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .parc-niokolo-koba {
+    left: 63px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .group-26 {
+    height: 182px;
+    min-width: 228px;
+    position: relative;
+  }
+  
+  .mobile-details .overlap-group3 {
+    height: 182px;
+    position: relative;
+    width: 224px;
+  }
+  
+  .mobile-details .rectangle-10-1 {
+    height: 127px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .rectangle-11-1 {
+    height: 12px;
+    left: 9px;
+    position: absolute;
+    top: 127px;
+    width: 208px;
+  }
+  
+  .mobile-details .ile-de-gre {
+    left: 82px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .localisation-dakar {
+    left: 0;
+    position: absolute;
+    top: 140px;
+  }
+  
+  .mobile-details .group-27 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    margin-right: 14.0px;
+    margin-top: 46px;
+    min-height: 194px;
+    width: 228px;
+  }
+  
+  .mobile-details .overlap-group {
+    height: 141px;
+    margin-left: 1px;
+    position: relative;
+    width: 223px;
+  }
+  
+  .mobile-details .saly-portydal {
+    left: 67px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .localisation-1 {
+    min-height: 42px;
+  }
+  
+  .mobile-details .group {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    margin-right: 14.0px;
+    margin-top: 50px;
+    min-height: 194px;
+    width: 228px;
+  }
+  
+  .mobile-details .ilot-sarpan {
+    left: 74px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .pointr-des-almadies {
+    left: 47px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .iles-du-saloum {
+    left: 74px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+  }
+  
+  .mobile-details .trouver-un-hebergement {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-right: 16.0px;
+    margin-top: 45px;
+    min-height: 19px;
+    min-width: 182px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .frame-65 {
+    justify-content: flex-end;
+    margin-right: 15.0px;
+    margin-top: 21px;
+    width: fit-content;
+  }
+  
+  .mobile-details .group-3 {
+    height: 254px;
+    margin-right: -4.00px;
+    min-width: 227px;
+    position: relative;
+  }
+  
+  .mobile-details .flex-col {
+    flex-direction: column;
+    min-height: 254px;
+    width: 223px;
+  }
+  
+  .mobile-details .overlap-group-3 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 101px;
+    padding: 0 21px;
+  }
+  
+  .mobile-details .hotel {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 54px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .rectangle-12 {
+    height: 184px;
+    object-fit: cover;
+    width: 223px;
+  }
+  
+  .mobile-details .address {
+    letter-spacing: 0.26px;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 17px;
+    min-height: 16px;
+  }
+  
+  .mobile-details .overlap-group1-1 {
+    align-items: flex-start;
+    border-radius: 10px 10px 0px 0px;
+    min-width: 101px;
+    padding: 9px 5px;
+  }
+  
+  .mobile-details .appartement {
+    letter-spacing: 0.24px;
+    line-height: normal;
+    min-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .overlap-group2-1 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 101px;
+    padding: 0 9px;
+  }
+  
+  .mobile-details .chambre {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 82px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .x10000-chambres {
+    letter-spacing: 0.26px;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 17px;
+    min-height: 16px;
+  }
+  
+  .mobile-details .overlap-group3-1 {
+    align-items: center;
+    background-color: var(--torea-bay);
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 101px;
+    padding: 0 14px;
+  }
+  
+  .mobile-details .chalet {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 63px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .restaurations {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-right: 92.0px;
+    margin-top: 40px;
+    min-height: 19px;
+    min-width: 132px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .frame-66 {
+    margin-left: 8.0px;
+    margin-top: 41px;
+    width: 240px;
+  }
+  
+  .mobile-details .group-3-1 {
+    height: 354px;
+    min-width: 229px;
+    position: relative;
+  }
+  
+  .mobile-details .rectangle-16 {
+    height: 258px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .overlap-group-1 {
+    align-items: flex-start;
+    background-color: var(--governor-bay);
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 96px;
+    padding: 8px 14px;
+    position: absolute;
+    top: 258px;
+    width: 223px;
+  }
+  
+  .mobile-details .nom-yes-food {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .lieudakar {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-top: 6px;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .niveau {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-top: 10px;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .nomlodge-almadies {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .nomle-ngoor {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .nomla-piazza {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .group-106 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 4.0px;
+    margin-top: 26px;
+    min-width: 192px;
+  }
+  
+  .mobile-details .overlap-group4 {
+    align-items: flex-start;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 60px;
+    justify-content: flex-end;
+    min-width: 190px;
+    padding: 20px 46px;
+  }
+  
+  .mobile-details .voir-plus {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    min-height: 19px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .surname {
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-right: 21.0px;
+    margin-top: 60px;
+    min-height: 19px;
+    min-width: 199px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .frame-54 {
+    justify-content: flex-end;
+    margin-right: 14.0px;
+    margin-top: 18px;
+    width: fit-content;
+  }
+  
+  .mobile-details .group-5 {
+    height: 178px;
+    margin-right: -2.00px;
+    min-width: 230px;
+    position: relative;
+  }
+  
+  .mobile-details .rectangle-31 {
+    height: 133px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 223px;
+  }
+  
+  .mobile-details .au-senegal-vous-all {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .le-mbalakh-est-la-mu {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .au-senegal-le-rythm {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .frame-55 {
+    justify-content: flex-end;
+    margin-right: 24.0px;
+    margin-top: 53px;
+    width: fit-content;
+  }
+  
+  .mobile-details .au-sngal-le-sport {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .dans-ce-pays-le-plat {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .le-senegal-est-un-pa {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .group-107 {
+    align-items: flex-start;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 27px;
+    min-height: 581px;
+    width: 418px;
+  }
+  
+  .mobile-details .inscrivez-vous-a-not {
+    align-self: center;
+    letter-spacing: 0.24px;
+    line-height: 17.7px;
+    margin-right: 12.0px;
+    min-height: 36px;
+    width: 248px;
+  }
+  
+  .mobile-details .overlap-group-4 {
+    align-self: center;
+    height: 31px;
+    margin-top: 23px;
+    position: relative;
+    width: 260px;
+  }
+  
+  .mobile-details .rectangle-50 {
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 168px;
+  }
+  
+  .mobile-details .adress-mail {
+    left: 15px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+  }
+  
+  .mobile-details .rectangle-51 {
+    height: 31px;
+    left: 145px;
+    position: absolute;
+    top: 0;
+    width: 90px;
+  }
+  
+  .mobile-details .envoyer {
+    left: 170px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+    width: 90px;
+  }
+  
+  .mobile-details .flex-row {
+    align-self: center;
+    gap: 130px;
+    height: 22px;
+    margin-right: 34.0px;
+    margin-top: 49px;
+    min-width: 296px;
+  }
+  
+  .mobile-details .place {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 38px;
+  }
+  
+  .mobile-details .hebergement {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+  }
+  
+  .mobile-details .group-container {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    gap: 84px;
+    height: 134px;
+    margin-right: 66.0px;
+    margin-top: 23px;
+    min-width: 264px;
+  }
+  
+  .mobile-details .group-81 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 126px;
+    width: 84px;
+  }
+  
+  .mobile-details .vol-simple {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile-details .aller-retour {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 28px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .economique {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 21px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .classe-affaire {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .group-82 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    min-height: 126px;
+    width: 96px;
+  }
+  
+  .mobile-details .prise-en-charge {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile-details .annulation {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 28px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .reservation {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 21px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .promotion {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 17px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .flex-row-1 {
+    gap: 91px;
+    height: 22px;
+    margin-left: 41px;
+    margin-top: 45px;
+    min-width: 234px;
+  }
+  
+  .mobile-details .compte {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 69px;
+  }
+  
+  .mobile-details .place-1 {
+    letter-spacing: 1.71px;
+    line-height: normal;
+    min-height: 22px;
+  }
+  
+  .mobile-details .flex-row-2 {
+    gap: 72px;
+    height: 15px;
+    margin-left: 43px;
+    margin-top: 28px;
+    min-width: 224px;
+  }
+  
+  .mobile-details .prise-en-charge-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+    min-width: 88px;
+  }
+  
+  .mobile-details .phone {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile-details .flex-row-3 {
+    align-self: center;
+    gap: 99px;
+    height: 15px;
+    margin-right: 11.0px;
+    margin-top: 28px;
+    min-width: 321px;
+  }
+  
+  .mobile-details .annulation-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+    min-width: 59px;
+  }
+  
+  .mobile-details .travelstrakes221gmailcom {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+  }
+  
+  .mobile-details .reservation-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 43px;
+    margin-top: 21px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .promotion-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 43px;
+    margin-top: 17px;
+    min-height: 15px;
+  }
+  
+  .mobile-details .overlap-group1-2 {
+    align-items: flex-end;
+    margin-top: 5px;
+    min-width: 390px;
+    padding: 9px 110px;
+  }
+  
+  .mobile-details .copyright-travelstrakes {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 17px;
+    min-width: 165px;
+  }
+  
+  .mobile-details .address-3 {
+    letter-spacing: 0.26px;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 17px;
+    min-height: 16px;
+  }
+  
+  .mobile-details .au-senegal {
+    left: 5px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 223px;
+  }
+  
+  .mobile-details .flex {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .mobile-details .flex-row-4 {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .mobile-details .frame {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    position: relative;
+  }
+  
+  .mobile-details .localisation-2 {
+    letter-spacing: 0.24px;
+    line-height: normal;
+  }
+  
+  .mobile-details .overlap-group1-3 {
+    background-color: var(--torea-bay);
+    display: flex;
+    height: 37px;
+  }
+  

@@ -1,0 +1,339 @@
+/* screen - reserve-vol */
+
+.reserve-vol {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1526px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .reserve-vol .rectangle-1 {
+    background-color: var(--lochmara);
+    height: 59px;
+    left: 0;
+    position: fixed;
+    top: -2px;
+    width: 1441px;
+    z-index: 8;
+  }
+  
+  .reserve-vol .icon-instagram {
+    left: 1244px;
+    top: 13px;
+    z-index: 11;
+  }
+  
+  .reserve-vol .icon-twitter {
+    left: 1344px;
+    top: 13px;
+    z-index: 12;
+  }
+  
+  .reserve-vol .icon-facebook {
+    left: 1294px;
+    top: 13px;
+    z-index: 13;
+  }
+  
+  .reserve-vol .explorer-le-monde-vivez-laventure {
+    left: 15px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 16px;
+    width: 416px;
+    z-index: 9;
+  }
+  
+  .reserve-vol .reservation-777533518 {
+    left: 965px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 16px;
+    width: 228px;
+    z-index: 10;
+  }
+  
+  .reserve-vol .rectangle-54 {
+    background-color: var(--white);
+    height: 103px;
+    left: 1px;
+    position: fixed;
+    top: 57px;
+    width: 1440px;
+    z-index: 3;
+  }
+  
+  .reserve-vol .travel_treks-removebg-preview-1 {
+    height: 100px;
+    left: 123px;
+    object-fit: cover;
+    position: fixed;
+    top: 60px;
+    width: 100px;
+    z-index: 4;
+  }
+  
+  .reserve-vol .icon-question_mark {
+    left: 1244px;
+    top: 90px;
+    z-index: 6;
+  }
+  
+  .reserve-vol .frame-62 {
+    align-items: center;
+    display: flex;
+    gap: 50px;
+    left: 411px;
+    position: fixed;
+    top: 91px;
+    width: fit-content;
+    z-index: 5;
+  }
+  
+  .reserve-vol .frame-57 {
+    height: 39px;
+    min-width: 89px;
+    position: relative;
+  }
+  
+  .reserve-vol .accueil {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .frame {
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .reserve-vol .vol {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .reserve-vol .hebergement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .reserve-vol .vente-flash {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .reserve-vol .mon-compte {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .reserve-vol .aide {
+    left: 1244px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 129px;
+    white-space: nowrap;
+    z-index: 7;
+  }
+  
+  .reserve-vol .overlap-group3 {
+    height: 482px;
+    margin-top: 160px;
+    position: relative;
+    width: 1440px;
+    z-index: 1;
+  }
+  
+  .reserve-vol .vous-etes-sur-la-pla {
+    left: 243px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 329px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .rectangle-3 {
+    height: 482px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .reserve-vol .bienvenue-chez-travel-treks {
+    left: 736px;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    position: absolute;
+    top: 147px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .vous-etes-sur-le-pla {
+    left: 403px;
+    letter-spacing: 0.50px;
+    line-height: normal;
+    position: absolute;
+    top: 359px;
+    white-space: nowrap;
+  }
+  
+  .reserve-vol .flex-row {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    gap: 96px;
+    margin-right: 100.78px;
+    margin-top: 28px;
+    min-width: 1197px;
+    z-index: 2;
+  }
+  
+  .reserve-vol .x5561899_21273-1 {
+    height: 426px;
+    object-fit: cover;
+    width: 677px;
+  }
+  
+  .reserve-vol .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 414px;
+    width: 424px;
+  }
+  
+  .reserve-vol .overlap-group4 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    min-width: 424px;
+    padding: 12.3px 28.7px;
+  }
+  
+  .reserve-vol .lieu-de-depart {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 227px;
+  }
+  
+  .reserve-vol .overlap-group2 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    margin-top: 21px;
+    min-width: 424px;
+    padding: 12.3px 28.7px;
+  }
+  
+  .reserve-vol .destination {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 227px;
+  }
+  
+  .reserve-vol .overlap-group {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 15px;
+    display: flex;
+    height: 64px;
+    justify-content: flex-end;
+    margin-top: 21px;
+    min-width: 424px;
+    padding: 10.0px 26.8px;
+  }
+  
+  .reserve-vol .calendrier-2 {
+    align-self: flex-end;
+    height: 39px;
+    object-fit: cover;
+    width: 64px;
+  }
+  
+  .reserve-vol .votre-date {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 42px;
+    margin-top: 3.72px;
+    min-height: 23px;
+    width: 155px;
+  }
+  
+  .reserve-vol .vector {
+    cursor: pointer;
+    height: 13px;
+    margin-bottom: 7.13px;
+    margin-left: 65px;
+    width: 42px;
+  }
+  
+  .reserve-vol .overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 60px;
+    margin-top: 119px;
+    min-width: 200px;
+    padding: 16.4px 41px;
+  }
+  
+  .reserve-vol .reservation {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 26px;
+    width: 118px;
+  }
+  
+  .reserve-vol .icon {
+    height: 30px;
+    object-fit: cover;
+    position: fixed;
+    width: 30px;
+  }
+  

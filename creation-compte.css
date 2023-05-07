@@ -1,0 +1,500 @@
+/* screen - creation-compte */
+
+.creation-compte {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1306px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .creation-compte .rectangle-1 {
+    background-color: var(--lochmara);
+    height: 59px;
+    left: -1px;
+    position: fixed;
+    top: 0;
+    width: 1441px;
+    z-index: 9;
+  }
+  
+  .creation-compte .icon-instagram {
+    left: 1243px;
+    top: 15px;
+    z-index: 12;
+  }
+  
+  .creation-compte .icon-twitter {
+    left: 1343px;
+    top: 15px;
+    z-index: 13;
+  }
+  
+  .creation-compte .icon-facebook {
+    left: 1293px;
+    top: 15px;
+    z-index: 14;
+  }
+  
+  .creation-compte .explorer-le-monde-vivez-laventure {
+    left: 14px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 18px;
+    width: 416px;
+    z-index: 10;
+  }
+  
+  .creation-compte .reservation-777533518 {
+    left: 964px;
+    letter-spacing: 1.71px;
+    line-height: normal;
+    position: fixed;
+    top: 18px;
+    width: 228px;
+    z-index: 11;
+  }
+  
+  .creation-compte .rectangle-54 {
+    background-color: var(--white);
+    height: 103px;
+    left: 0;
+    position: fixed;
+    top: 59px;
+    width: 1440px;
+    z-index: 4;
+  }
+  
+  .creation-compte .travel_treks-removebg-preview-1 {
+    height: 100px;
+    left: 122px;
+    object-fit: cover;
+    position: fixed;
+    top: 62px;
+    width: 100px;
+    z-index: 5;
+  }
+  
+  .creation-compte .icon-question_mark {
+    left: 1243px;
+    top: 92px;
+    z-index: 7;
+  }
+  
+  .creation-compte .frame-62 {
+    align-items: center;
+    display: flex;
+    gap: 50px;
+    left: 410px;
+    position: fixed;
+    top: 93px;
+    width: fit-content;
+    z-index: 6;
+  }
+  
+  .creation-compte .frame-57 {
+    height: 39px;
+    min-width: 89px;
+    position: relative;
+  }
+  
+  .creation-compte .accueil {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .frame {
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .creation-compte .vol {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .creation-compte .hebergement {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .creation-compte .vente-flash {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .creation-compte .mon-compte {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .creation-compte .aide {
+    left: 1243px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 131px;
+    white-space: nowrap;
+    z-index: 8;
+  }
+  
+  .creation-compte .group-22 {
+    align-items: flex-start;
+    display: flex;
+    height: 482px;
+    margin-right: -4px;
+    margin-top: 162px;
+    min-width: 1444px;
+    z-index: 2;
+  }
+  
+  .creation-compte .overlap-group {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645427c988ec2f125fc2cb82/releases/64542cc3b4cc0fab9ff1e139/img/rectangle-3-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 66px;
+    min-height: 482px;
+    padding: 160px 426px;
+    width: 1440px;
+  }
+  
+  .creation-compte .title {
+    align-self: center;
+    letter-spacing: 0.60px;
+    line-height: normal;
+    margin-right: 1.0px;
+    min-height: 36px;
+    min-width: 485px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .un-monde-de-voyage-a-portee-de-clic {
+    letter-spacing: 2.38px;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .hello-bienvenue-dans {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 49.0px;
+    margin-top: 35px;
+    min-height: 18px;
+    min-width: 371px;
+    white-space: nowrap;
+    z-index: 3;
+  }
+  
+  .creation-compte .overlap-group4 {
+    align-self: center;
+    height: 533px;
+    margin-right: 4.0px;
+    margin-top: 37px;
+    position: relative;
+    width: 1106px;
+    z-index: 1;
+  }
+  
+  .creation-compte .rectangle-33 {
+    background-color: var(--alto);
+    height: 492px;
+    left: 5px;
+    position: absolute;
+    top: 0;
+    width: 522px;
+  }
+  
+  .creation-compte .group-87 {
+    align-items: center;
+    display: flex;
+    gap: 146px;
+    height: 492px;
+    left: 35px;
+    min-width: 1071px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .creation-compte .group-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-bottom: 9.0px;
+    min-height: 453px;
+    width: 351px;
+  }
+  
+  .creation-compte .group-88 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 405px;
+    width: 351px;
+  }
+  
+  .creation-compte .connexion {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 122.0px;
+    min-height: 18px;
+    min-width: 91px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .id-client {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 7px;
+    margin-top: 53px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .line-2 {
+    margin-top: 1px;
+    width: 303px;
+  }
+  
+  .creation-compte .votre-mot-de-pass {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 7px;
+    margin-top: 38px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .overlap-group1 {
+    align-items: center;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    margin-left: 2px;
+    margin-top: 33px;
+    min-width: 163px;
+    padding: 0 41px;
+  }
+  
+  .creation-compte .connexion-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 18px;
+    min-width: 77px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .vous-navez-pas-de-compte {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 6px;
+    margin-top: 49px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .overlap-group-1 {
+    align-items: center;
+    background-color: var(--red);
+    border-radius: 10px;
+    display: flex;
+    height: 34px;
+    margin-top: 33px;
+    min-width: 163px;
+    padding: 0 18px;
+  }
+  
+  .creation-compte .creer-maintenant {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 18px;
+    min-width: 126px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .partagager-nous-sur-vos-reseaux {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 14px;
+    margin-top: 37px;
+    min-height: 18px;
+    min-width: 242px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .group-container-1 {
+    height: 30px;
+    margin-left: 81.0px;
+    position: relative;
+    width: 130px;
+  }
+  
+  .creation-compte .group-6 {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    height: 30px;
+    left: 0;
+    min-width: 130px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .creation-compte .icon {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .creation-compte .x11668712_20945294-1 {
+    height: 492px;
+    object-fit: cover;
+    width: 574px;
+  }
+  
+  .creation-compte .rectangle-53 {
+    background-color: var(--white);
+    height: 533px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 556px;
+  }
+  
+  .creation-compte .creer-votre-nouveau-compte {
+    left: 88px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .group-92 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 61px;
+    min-height: 422px;
+    position: absolute;
+    top: 95px;
+    width: 316px;
+  }
+  
+  .creation-compte .nom {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .line-3 {
+    margin-left: 2.0px;
+    margin-top: 15px;
+    width: 300px;
+  }
+  
+  .creation-compte .group-92-item {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 1px;
+    margin-top: 30px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .line {
+    height: 1px;
+    margin-left: 1.0px;
+    margin-top: 15px;
+    object-fit: cover;
+    width: 300px;
+  }
+  
+  .creation-compte .email {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 1px;
+    margin-top: 34px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .mot-de-passe {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 1px;
+    margin-top: 27px;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .overlap-group3 {
+    align-items: flex-start;
+    background-color: var(--red);
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    margin-top: 30px;
+    min-width: 228px;
+    padding: 9px 37px;
+  }
+  
+  .creation-compte .creer-maintenant-1 {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .creation-compte .icon-1 {
+    height: 30px;
+    object-fit: cover;
+    position: fixed;
+    width: 30px;
+  }
+  
+  .creation-compte .line-1 {
+    height: 1px;
+    object-fit: cover;
+  }
+  

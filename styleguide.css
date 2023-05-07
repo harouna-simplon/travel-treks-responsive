@@ -1,0 +1,279 @@
+:root { 
+    --black: #000000;
+    --governor-bay: #303eb9;
+    --lochmara: #0071c2;
+    --red: #ff000091;
+    --red-2: #ff0000;
+    --torea-bay: #1323afe0;
+    --white: #ffffff;
+   
+    --font-size-l2: 25px;
+    --font-size-xs2: 15px;
+    --font-size-xs3: 18px;
+    --font-size-xxl: 30px;
+    --font-size-xxs2: 12px;
+    --font-size-xxs3: 16px;
+    --font-size-xxs4: 14px;
+   
+    --font-family-inter: "Inter", Helvetica;
+    --font-family-lato: "Lato", Helvetica;
+  }
+  .lato-bold-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-normal-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .lato-bold-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-black-25px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs4);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-25px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xs3);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-normal-white-15px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xs2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .lato-normal-black-25px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .lato-bold-black-30px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 700;
+  }
+  /*mobile*/
+  :root { 
+    --black: #000000;
+    --governor-bay: #303eb9;
+    --red: #ff000091;
+    --red-2: #ff0000;
+    --torea-bay: #1323afe0;
+    --white: #ffffff;
+   
+    --font-size-l2: 25px;
+    --font-size-s: 11px;
+    --font-size-s2: 20px;
+    --font-size-xxs2: 12px;
+    --font-size-xxs3: 16px;
+    --font-size-xxs4: 14px;
+    --font-size-xxxxs: 10px;
+   
+    --font-family-inter: "Inter", Helvetica;
+    --font-family-lato: "Lato", Helvetica;
+  }
+  .inter-normal-black-12px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .lato-bold-white-11px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-black-18px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-25px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs4);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-normal-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs3);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .inter-normal-white-11px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .lato-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-black-25px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .lato-bold-black-12px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .inter-normal-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxs4);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
